@@ -1,0 +1,18 @@
+node_modules
+
+npm-debug.log
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Ignored files
+src/**/*.js
+src/**/*.map
+src/**/*.d.ts
+
+dist-dev
+dist-prod
+
+wraith-components.iml
+yarn.lock
